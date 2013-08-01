@@ -1,0 +1,20 @@
+div.chart{
+    width: 500px;
+    height: 500px;
+}
+
+.overallBar{
+    fill: #333;
+}
+
+.emptyBar{
+    fill: #eee;
+    stroke: #000;
+    stroke-width: 0.5px;
+}
+
+.filledBar{
+    fill: #f00;
+    stroke: #000;
+    stroke-width: 0.5px;
+}
